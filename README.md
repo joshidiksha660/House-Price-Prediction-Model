@@ -66,3 +66,20 @@ This model is used as the final model.
 1. Install all required packages:
 ```bash
 pip install -r requirements.txt
+
+
+📌 Future Improvements
+Hyperparameter tuning for Random Forest
+
+Add Gradient Boosting / XGBoost
+
+Add feature importance visualization
+
+Try log transformation for skewed columns
+
+✨ Author
+Diksha Joshi
+Email: joshidiksha660@gmail.com
+Github https://github.com/joshidiksha660
+Linkedin https://in.linkedin.com/in/diksha-joshi-58b8ba304
+
